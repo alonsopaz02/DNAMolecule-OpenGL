@@ -17,7 +17,7 @@ Graphic application that draws a DNA molecule in two different ways using transf
 2. A cilinder that revolves around the molecule can be activaded using menues
 3. Menues are displayed using right click
 4. Can choose to draw the 3D axis
-5. Can choose between two modes of drawing, a solid model or an alambric model
+5. Can choose between two modes of drawing, a solid model or an alambric model.
 *Alambric model uses OpenGL basic primitives, while the solid model uses a own designed function to draw a cilinder*
 6. Rotation can be activated in the menu and it begins when "R" in mayus is pressed
 7. "I" moves camara forward
