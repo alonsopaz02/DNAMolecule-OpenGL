@@ -13,4 +13,14 @@ Graphic application that draws a DNA molecule in two different ways using transf
    Open a new project in CodeBlocks 17.12 and select all the project files in this repository and hit run.
 
 # Features
-1. 
+. Developed in Spanish
+. A cilinder that revolves around the molecule can be activaded using menues
+. Menues are displayed using right click
+. Can choose to draw the 3D axis
+. Can choose between two modes of drawing, a solid model or an alambric model
+*Alambric model uses OpenGL basic primitives, while the solid model uses a own designed function to draw a cilinder*
+. Rotation can be activated in the menu and it begins when "R" in mayus is pressed
+. "I" moves camara forward
+. "M" moves camara backwards
+. "K", "L" and "P" are for camera rotationes
+. "Z" and "X" is for increasing the speed of the rotations
